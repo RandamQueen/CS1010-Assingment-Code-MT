@@ -7,7 +7,7 @@ Week 1: (No Assingment)
 
 Week 2: Pounds, Shillings and Pennies/ CurrencyConverter.java
 
-Week 3: Umbrella? 
+Week 3: Umbrella? /UmbrellaTest
 
 Week 4: Square Ages
 
