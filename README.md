@@ -3,6 +3,7 @@ This contains the codes for all programming assignments for TCD-CS1010 in the Mi
 All of this Assingment were written in Java. 
 
 The Order of Assingment reads as follows: 
+
 Week 1: (No Assingment) 
 
 Week 2: Pounds, Shillings and Pennies/ CurrencyConverter.java
