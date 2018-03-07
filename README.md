@@ -26,7 +26,7 @@ Week 10: Triangular Stars/ triangularStars.java
 
 Week 11: High Scores/HIghScores.java
 
-Week 12: Cipher/ 
+Week 12: Cipher/ Cipher.java
 
 Also, a note to future TCD students whom may be looking at this code. Please look at this if you are stuck 
 on an assingment or confused about what is being asked. Don't just copy the code and submit it yourself. 
