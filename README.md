@@ -1,6 +1,6 @@
 # CS1010-Assingment-Code-MT
 This contains the codes for all programming assignments for TCD-CS1010 in the Michaelmas Term. 
-All of this Assingment were written in Java. 
+All of these Assingments were written in Java. 
 
 The Order of Assingment reads as follows: 
 
